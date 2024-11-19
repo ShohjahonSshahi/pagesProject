@@ -1,2 +1,2 @@
 # pagesProject
-Anvar Narzullayev ustozning Django darslaridan!!!
+ Heroku serverga yuklash oldidan Github sahifamga uklamoqchiman
